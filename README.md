@@ -171,6 +171,8 @@ r6 = RouteProblem('Arakonam','Perambakkam', map=nearby_locations)
 
 goal_state_path=breadth_first_search(r0)
 path_states(goal_state_path) 
+print("GoalStateWithPath:{0}".format(goal_state_path))
+print("Total Distance={0} Kilometers".format(goal_state_path.path_cost))
 
 ```
 
