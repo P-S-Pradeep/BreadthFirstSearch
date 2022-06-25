@@ -1,4 +1,7 @@
-# Breadth First Search
+### EXP NO:02
+### DATE:28/04/2022
+
+# <p align='center'>Breadth First Search
 ## AIM
 
 To develop an algorithm to find the route from the source to the destination point using breadth-first search.
@@ -24,8 +27,10 @@ Select a specific number of nodes with distance
 
 
 ## PROGRAM
-Student name : Pradeep P S
-Reg.no : 212220230034
+```
+Developed By: Pradeep P S
+Reg. No: 212220230034
+```
 ``` python
 %matplotlib inline
 import matplotlib.pyplot as plt
